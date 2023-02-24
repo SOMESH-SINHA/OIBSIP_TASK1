@@ -1,0 +1,92 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .heading1 {
+    width: 100%;
+    height: 600px;
+    background-image: url("img1.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  }
+  
+  .heading1 h2 {
+    position: relative;
+    width: 140px;
+    height: 50px;
+    left: 500px;
+    top: 250px;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  .heading2 h2 {
+    position: relative;
+    width: 140px;
+    height: 50px;
+    left: 1000px;
+    top: 250px;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  .heading2 {
+    width: 100%;
+    height: 600px;
+    background-image: url("img2.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  }
+  
+  .para1 {
+    height: 200px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+  }
+  
+  .heading3 {
+    width: 100%;
+    height: 600px;
+    background-image: url("img3.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+  }
+  
+  .heading3 h2 {
+    position: relative;
+    width: 140px;
+    height: 50px;
+    left: 1000px;
+    top: 250px;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  .para2 {
+    height: 200px;
+    padding: 20px;
+    background-color: yellowgreen;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .para3 {
+    height: 100px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+  }
+  .lastpart {
+    background-image: url("img4.jpg");
+    background-attachment: fixed;
+    height: 1000px;
+    background-size: 100% 100%;
+  }
+  
